@@ -4,7 +4,7 @@
   "description": "A fast and optimized collection of web fonts combined into a single CSS file for better performance. Includes multiple font families with modern formats such as woff2 and woff.",
   "main": "index.js",
   "scripts": {
-    "build-css": "sass css/index.scss dist/index.css",
+    "build-css": "sass css/index.scss ./index.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
