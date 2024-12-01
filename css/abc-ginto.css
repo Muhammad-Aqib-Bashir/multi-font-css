@@ -1,0 +1,184 @@
+/* ABC Ginto Nord - Regular */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* ABC Ginto Nord - Medium */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* ABC Ginto Nord - Bold */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* ABC Ginto Nord - Light */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* ABC Ginto Nord - Thin */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+}
+
+/* ABC Ginto Nord - Ultra */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-Ultra.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* ABC Ginto Nord - Regular Italic */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-RegularItalic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* ABC Ginto Nord - Medium Italic */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* ABC Ginto Nord - Bold Italic */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* ABC Ginto Nord - Light Italic */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* ABC Ginto Nord - Thin Italic */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* ABC Ginto Nord - Ultra Italic */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-UltralItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* ABC Ginto Normal - Regular */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* ABC Ginto Normal - Medium */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* ABC Ginto Normal - Bold */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* ABC Ginto Normal - Light */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* ABC Ginto Normal - Thin */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+}
+
+/* ABC Ginto Normal - Black */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* ABC Ginto Normal - Regular Italic */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-RegularItalic.woff")
+    format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* ABC Ginto Normal - Medium Italic */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* ABC Ginto Normal - Bold Italic */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* ABC Ginto Normal - Light Italic */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* ABC Ginto Normal - Thin Italic */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+}
