@@ -1,1 +1,2 @@
-@import "./abc-ginto.css";
+/* css/index.scss */
+@use "./abc-ginto.css" as *; /* Import abc-ginto.css */
