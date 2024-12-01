@@ -25,7 +25,7 @@ A simple, efficient solution for integrating multiple custom web fonts into your
 1. **Clone the repository** to your local machine:
 
 ```bash
-git clone https://muhammad-aqib-bashir.github.io/multi-font-css/index.css
+git clone https://muhammad-aqib-bashir.github.io/multi-font-css.git
 cd multi-font-css
 ```
 
@@ -92,11 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to the developers of SCSS and the web font community for providing resources and libraries.
 - Special thanks to contributors and open-source projects that have helped in making this project better.
-
----
-
-### Notes:
-
-- Replace `https://github.com/your-username/multi-font-css.git` with the actual URL of your GitHub repository.
-- You can add a screenshot in the **Screenshots** section if you'd like to showcase your project visually.
-- If you have any credits to give for external libraries, tools, or inspirations, feel free to mention them in the **Acknowledgments** section.
