@@ -1,14 +1,23 @@
 {
   "name": "multi-font-css",
   "version": "1.0.0",
+  "description": "A fast and optimized collection of web fonts combined into a single CSS file for better performance. Includes multiple font families with modern formats such as woff2 and woff.",
   "main": "index.js",
   "scripts": {
+    "build-css": "sass css/index.scss dist/index.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "fonts",
+    "css",
+    "webfonts",
+    "scss",
+    "performance",
+    "optimized",
+    "multi-fonts"
+  ],
+  "author": "Your Name",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "sass": "^1.81.0"
   }
