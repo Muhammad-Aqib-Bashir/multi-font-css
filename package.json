@@ -1,23 +1,26 @@
 {
   "name": "multi-font-css",
-  "version": "1.0.0",
-  "description": "A fast and optimized collection of web fonts combined into a single CSS file for better performance. Includes multiple font families with modern formats such as woff2 and woff.",
+  "version": "1.1.0",
+  "description": "Optimized web font collection bundled via SCSS for high-performance web applications. Includes multiple font families with modern formats and structured font-face declarations.",
   "main": "index.js",
   "scripts": {
-    "build-css": "sass css/index.scss ./index.css",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm run build:css",
+    "build:css": "sass css/index.scss index.css",
+    "watch": "npm run watch:css",
+    "watch:css": "sass --watch css/index.scss:index.css"
   },
   "keywords": [
     "fonts",
-    "css",
     "webfonts",
+    "css",
     "scss",
-    "performance",
-    "optimized",
-    "multi-fonts"
+    "typography",
+    "amazon-ember",
+    "abc-ginto",
+    "font-face"
   ],
-  "author": "Your Name",
-  "license": "ISC",
+  "author": "Muhammad Aqib Bashir",
+  "license": "MIT",
   "devDependencies": {
     "sass": "^1.81.0"
   }

@@ -1,3 +1,250 @@
-@import "./css/abc-ginto.css";
+/* css/index.scss */
+/* Import abc-ginto font styles */
+/* ABC Ginto Nord - Regular */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+/* ABC Ginto Nord - Medium */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+/* ABC Ginto Nord - Bold */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+/* ABC Ginto Nord - Light */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+/* ABC Ginto Nord - Thin */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+}
+/* ABC Ginto Nord - Ultra */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-Ultra.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+/* ABC Ginto Nord - Regular Italic */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-RegularItalic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+/* ABC Ginto Nord - Medium Italic */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+}
+/* ABC Ginto Nord - Bold Italic */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+/* ABC Ginto Nord - Light Italic */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+}
+/* ABC Ginto Nord - Thin Italic */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+}
+/* ABC Ginto Nord - Ultra Italic */
+@font-face {
+  font-family: "ABC Ginto Nord";
+  src: url("../fonts/abc-ginto/ABCGintoNord-UltralItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+}
+/* ABC Ginto Normal - Regular */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+/* ABC Ginto Normal - Medium */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+/* ABC Ginto Normal - Bold */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+/* ABC Ginto Normal - Light */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+/* ABC Ginto Normal - Thin */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+}
+/* ABC Ginto Normal - Black */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+/* ABC Ginto Normal - Regular Italic */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-RegularItalic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+/* ABC Ginto Normal - Medium Italic */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+}
+/* ABC Ginto Normal - Bold Italic */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+/* ABC Ginto Normal - Light Italic */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+}
+/* ABC Ginto Normal - Thin Italic */
+@font-face {
+  font-family: "ABC Ginto Normal";
+  src: url("../fonts/abc-ginto/ABCGintoNormal-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+}
+/* Import Amazon Ember font styles */
+/* Amazon Ember - Medium (500) */
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../fonts/amazon-ember/Amazon-Ember-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+/* Amazon Ember - Medium Italic (500 italic) */
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../fonts/amazon-ember/Amazon-Ember-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+}
+/* Amazon Ember - Bold (700) */
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../fonts/amazon-ember/AmazonEmber_Bd.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+/* Amazon Ember - Bold Italic (700 italic) */
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../fonts/amazon-ember/AmazonEmber_BdIt.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+/* Amazon Ember - Heavy (800) */
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../fonts/amazon-ember/AmazonEmber_He.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+/* Amazon Ember - Heavy Italic (800 italic) */
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../fonts/amazon-ember/AmazonEmber_HeIt.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+}
+/* Amazon Ember - Light (300) */
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../fonts/amazon-ember/AmazonEmber_Lt.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+/* Amazon Ember - Extra Light (200) */
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../fonts/amazon-ember/AmazonEmber_Ltt.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+/* Amazon Ember - Regular (400) */
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../fonts/amazon-ember/AmazonEmber_Rg.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+/* Amazon Ember - Regular Italic (400 italic) */
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../fonts/amazon-ember/AmazonEmber_RgIt.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+/* Amazon Ember - Thin (100) */
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../fonts/amazon-ember/AmazonEmber_Th.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+/* Amazon Ember - Thin Italic (100 italic) */
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../fonts/amazon-ember/AmazonEmber_ThIt.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+}
 
 /*# sourceMappingURL=index.css.map */

@@ -1,2 +1,7 @@
 /* css/index.scss */
-@use "./abc-ginto.css" as *; /* Import abc-ginto.css */
+
+/* Import abc-ginto font styles */
+@use "./abc-ginto.css" as *;
+
+/* Import Amazon Ember font styles */
+@use "./amazon-ember.css" as *;
